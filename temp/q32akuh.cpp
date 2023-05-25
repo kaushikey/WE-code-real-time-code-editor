@@ -1,2 +1,0 @@
-#include<iostream>
-print(ishwam")
